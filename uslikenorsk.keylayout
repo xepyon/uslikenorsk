@@ -294,7 +294,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="→"/>
             <key code="38" output="↓"/>
-            <key code="39" output="æ"/>
+            <key code="39" output="&#x0010;"/>
             <key code="40" output="↑"/>
             <key code="41" output="œ"/>
             <key code="42" output="‘"/>
@@ -400,7 +400,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="⇒"/>
             <key code="38" output=""/>
-            <key code="39" output="Æ"/>
+            <key code="39" ooutput="&#x0010;"/>
             <key code="40" output=""/>
             <key code="41" output="Œ"/>
             <key code="42" output="’"/>
@@ -611,9 +611,9 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="&#x000C;"/>
             <key code="38" output="&#x000A;"/>
-            <key code="39" output="æ"/>
+            <key code="39" output="&#x0010;"/>
             <key code="40" output="&#x000B;"/>
-            <key code="41" output="ø"/>
+            <key code="41" output="&#x0010;"/>
             <key code="42" output="&#x0027;"/>
             <key code="43" output=","/>
             <key code="44" output="&#x001F;"/>
@@ -717,7 +717,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="→"/>
             <key code="38" output="↓"/>
-            <key code="39" output="Æ"/>
+            <key code="39" output="&#x0010;"/>
             <key code="40" output="↑"/>
             <key code="41" output="Œ"/>
             <key code="42" output="‘"/>
