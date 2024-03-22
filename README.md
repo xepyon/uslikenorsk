@@ -8,6 +8,10 @@ keyboard layout to help us to Code and use the terminal.
 Well, First of all I am a foreigner in Norway. And in all my jobs but the last one I had always used UNIX and Windows laptops with Norwegian layout.
 So when I was told that I was going to be given a Macbook I thought to myself "Well, same same... How difficult can it be to get use?", but it did not take long to realize how naive I was!.
 
+### Disclaimer
+
+I have only tested this in macOS Sonoma.
+
 ## Layouts
 
 Quick clarification: **alt** equals **option** key.
