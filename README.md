@@ -36,7 +36,7 @@ The biggest difference is that in the basic keyboard layout we are not able to p
 
 ### macOS installation
 
-1. Move `uslikenorsk.keylayout` into `/Library/Keyboard Layouts/`
+1. Move `uslikenorsk.keylayout` into `~/Library/Keyboard Layouts/`
 2. Log out and log back in
 3. Select the new keyboard layout from System Settings (Example for macOS Sonoma System Settings -> Keyboard -> Text Input Edit -> + -> Others -> uslikenorsk)
 
