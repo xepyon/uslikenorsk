@@ -41,3 +41,22 @@ The biggest difference is that in the basic keyboard layout we are not able to p
 3. Select the new keyboard layout from System Settings (Example for macOS Sonoma System Settings -> Keyboard -> Text Input Edit -> + -> Others -> uslikenorsk)
 
 That is all! Have fun!
+
+## Exchanging Left FN key with Left CTRL key
+
+After using the keyboard layout for a while I realized that I could not get used to the **FN** key being in the left corner of the keyboard and I was constantly pressing it instead of the **CTRL** key.
+
+If you are like me and you are used to having the **CTRL** key in the left corner of the keyboard, you can use the following command to remap the **FN** key with the **CTRL** key.
+
+You can do a quick test until rebooting the computer by running the following command
+
+```bash
+cp ~/.local.hidutilKeyMapping.plist ~/Library/LaunchAgents/local.hidutilKeyMapping.plist
+launchctl load ~/Library/LaunchAgents/local.hidutilKeyMapping.plist
+```
+
+If you are convinced you can make the changes permanent running
+
+```bash
+launchctl start local.hidutilKeyMapping.plist
+```
